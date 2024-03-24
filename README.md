@@ -1,4 +1,4 @@
-#Welcome to the Stock Market Metrics Explorer! 📈💼
+# Welcome to the Stock Market Metrics Explorer! 📈💼
 
 Ever wondered how to decode the mysterious world of stocks and shares? Well, buckle up because we're about to take you on a thrilling ride through the financial jungle!
 
